@@ -8,8 +8,8 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "folder-structure",
-	Short: "CLI to create a folder structure",
+	Use:   "go-boil",
+	Short: "CLI to generate Go project boilerplate",
 }
 
 func Execute() {
