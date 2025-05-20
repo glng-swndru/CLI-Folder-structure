@@ -1,6 +1,6 @@
 package main
 
-import "github.com/glng-swndru/CLI-Folder-structure/cmd"
+import "github.com/glng-swndru/folder-structure/cmd"
 
 func main() {
 	cmd.Execute()
