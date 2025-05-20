@@ -1,4 +1,4 @@
-module github.com/glng-swndru/CLI-Folder-structure
+module github.com/glng-swndru/folder-structure
 
 go 1.23.4
 
